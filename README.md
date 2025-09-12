@@ -1,3 +1,3 @@
 # react-native-on-the-way
 
-Wait
+React Native for web3 and AI
