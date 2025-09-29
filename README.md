@@ -1,6 +1,10 @@
-React Native 
+React - React Native 
 
-Go API
+FastAPI
+
+Supabase
+
+GraphQL
 
 Tailwind
 
