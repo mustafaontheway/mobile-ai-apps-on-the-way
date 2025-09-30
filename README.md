@@ -1,4 +1,4 @@
-React - React Native 
+React
 
 FastAPI
 
