@@ -1,5 +1,7 @@
 React
 
+TypeScript
+
 FastAPI
 
 Supabase
