@@ -1,12 +1,6 @@
-React
+PWA
 
 TypeScript
-
-FastAPI
-
-Supabase
-
-GraphQL
 
 Tailwind
 
