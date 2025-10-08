@@ -1,6 +1,6 @@
 PWA
 
-React Native
+React
 
 TypeScript
 
