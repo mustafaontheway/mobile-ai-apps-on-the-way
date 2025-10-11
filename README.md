@@ -4,8 +4,6 @@ React
 
 React Native
 
-Kotlin
-
 TypeScript
 
 Tailwind
