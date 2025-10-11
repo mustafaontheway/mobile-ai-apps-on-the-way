@@ -2,7 +2,7 @@ PWA
 
 React
 
-Jetpack Compose & CMP
+React Native
 
 Kotlin
 
