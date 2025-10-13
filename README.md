@@ -1,8 +1,6 @@
-PWA
+PWA & React 
 
-React
-
-React Native
+Jetpack Compose & CMP
 
 TypeScript
 
