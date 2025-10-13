@@ -1,4 +1,4 @@
-PWA & React 
+PWA & Svelte 
 
 Jetpack Compose & CMP
 
