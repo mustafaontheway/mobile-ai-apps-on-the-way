@@ -1,4 +1,4 @@
-PWA for Web3 projects
+PWA for Web3 projects 
 
 Jetpack Compose & CMP
 
