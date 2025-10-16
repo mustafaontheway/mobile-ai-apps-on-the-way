@@ -1,7 +1,7 @@
 class Employee(var name: String, var department: String, var salary: Int) {
     
 }
-
+ 
 
 fun main() {
     
