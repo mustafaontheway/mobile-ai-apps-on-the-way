@@ -1,9 +1,8 @@
 fun main() {
-    
       
 }
 
-data class Departments(var depName: String, var depHead: String, var depID: Int) {
+data class Departments(var depName: String, var depID: Int) {
     
 }
 
