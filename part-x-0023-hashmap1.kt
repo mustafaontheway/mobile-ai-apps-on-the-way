@@ -1,6 +1,6 @@
 fun main() {
     
-	val salaryByName = HashMap<String, UInt>()
+	val salaryByName = hashMapOf<String, UInt>()
     
     salaryByName.put("Ayhan Bilir", 62_000u)
     salaryByName.put("Hakan İyi", 74_000u)
@@ -8,6 +8,9 @@ fun main() {
     
     println(salaryByName.get("Ayhan Bilir")) // 62000
 }
+
+
+
 
 
 
